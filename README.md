@@ -1,0 +1,2 @@
+# -Region-Incrementing-Visual-Cryptography-Scheme
+In (2, n) Region Incrementing Visual Cryptographic Scheme, a single secret image is divided into multiple secret regions. We need at least 2 secret shares to be superimposed to reveal the 1st secret region. By stacking more and more shares we get the entire image revealed. It allows visual information to be encrypted in such a way that the decryption can be performed by the human visual system.
